@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class aakar{
+class shapes{
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Welcome to aakar area calculator");
