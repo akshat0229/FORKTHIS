@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class shapes{
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        System.out.println("Welcome to aakar area calculator");
+        System.out.println("Welcome to shapes area calculator");
         System.out.println("Please type the shape code ranging from \n Square(S) \n Rectangle(R) \n Triangle(T) \n Circle(C)");
         String o = input.nextLine();
         if (o.equalsIgnoreCase("S")) {
